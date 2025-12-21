@@ -37,7 +37,7 @@ The raw dataset required cleaning before analysis. Using MySQL, I:
 - Created a clean staging table (`layoffs_staging2`) for analysis
 
 📄 **SQL Script:**  
-![View data cleaning SQL](assets/docs/Data_cleaning.sql)
+![View data cleaning SQL](assets/docs/Data_cleaning_SQL.sql)
 
 ---
 
@@ -45,7 +45,7 @@ The raw dataset required cleaning before analysis. Using MySQL, I:
 The Power BI dashboard summarizes key trends and insights from the dataset.
 
 📄 **Power BI File:**  
-![View dashboard](assets/images/World layoffs Dashboard.png)
+![View dashboard](assets/images/World_layoffs_Dashboard_Project.png)
 
 ---
 
