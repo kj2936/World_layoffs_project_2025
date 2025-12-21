@@ -8,7 +8,7 @@ This project was completed as a **portfolio case study** using SQL and Power BI.
 
 ---
 
-## 🎯 Business Questions
+## Business Questions
 The analysis focuses on answering the following questions:
 
 1. What was the overall scale of global layoffs?
@@ -20,14 +20,14 @@ The analysis focuses on answering the following questions:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **MySQL** – data cleaning and transformation
 - **Power BI** – data visualization and dashboard design
 - **GitHub** – documentation and project hosting
 
 ---
 
-## 🧹 Data Preparation (SQL)
+## Data Preparation (SQL)
 The raw dataset required cleaning before analysis. Using MySQL, I:
 
 - Removed duplicate records
@@ -39,7 +39,9 @@ The raw dataset required cleaning before analysis. Using MySQL, I:
 📄 **SQL Script:**  
 [View data cleaning SQL](Data_cleaning.sql)
 
-[View data analysis SQL](Data Analysis final.sql).
+[View data analysis SQL]
+(assets/docs/Data Analysis final.sql).
+
 ---
 
 ## 📊 Dashboard
@@ -50,7 +52,7 @@ The Power BI dashboard summarizes key trends and insights from the dataset.
 
 ---
 
-## 🔍 Key Insights (Analyst Interpretation)
+## 🔍 Key Insights
 
 ### 1️⃣ Layoffs peaked during recent years
 Layoffs increased sharply after 2021, peaking in 2022 and remaining elevated in 2023.  
@@ -94,14 +96,14 @@ The project highlights how SQL and Power BI can be used together to transform ra
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Analyse layoffs at a monthly level
 - Compare layoffs before and after major economic events
 - Incorporate employee headcount data to calculate layoff percentages
 
 ---
 
-## 👤 About Me
+## About Me
 Aspiring Data Analyst with experience in:
 - SQL (MySQL)
 - Power BI
