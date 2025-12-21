@@ -37,7 +37,7 @@ The raw dataset required cleaning before analysis. Using MySQL, I:
 - Created a clean staging table (`layoffs_staging2`) for analysis
 
 📄 **SQL Script:**  
-![View data cleaning SQL](assets/docs/Data_cleaning_SQL.sql)
+![View data cleaning SQL](assets/docs/https://github.com/kj2936/World_layoffs_project_2025/blob/main/assets/docs/Data%20cleaning%20SQL.sql)
 
 ---
 
