@@ -22,7 +22,7 @@ The analysis focuses on answering the following questions:
 
 ## 🛠 Tools Used
 - **MySQL** – data cleaning and transformation
-- **Power BI** – data visualization and dashboard design
+- **Power BI** – data visualisation and dashboard design
 - **GitHub** – documentation and project hosting
 
 ---
@@ -96,7 +96,7 @@ The project highlights how SQL and Power BI can be used together to transform ra
 ---
 
 ## Future Improvements
-- Analyze layoffs at a monthly level
+- Analyse layoffs at a monthly level
 - Compare layoffs before and after major economic events
 - Incorporate employee headcount data to calculate layoff percentages
 
